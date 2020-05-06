@@ -1,0 +1,750 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.d1{
+    height: 50px;
+    background-color: #0066cc ;
+}
+
+.fb{
+    width: 20px;
+    border: 1px solid #0066cc;
+    border-radius: 5px;
+    position: relative;
+    top: 6px;
+    left: 105px;
+}
+.twitter{
+    width: 20px;
+    border:1px solid #0066cc;
+    border-radius: 5px;
+    position: relative;
+    top: 4px;
+    left: 120px;
+    
+}
+.insta{
+    width: 20px;
+    border: 1px solid #0066cc;
+    border-radius: 5px;
+    position: relative;
+    top: 7px;
+    left: 135px;
+}
+.yt{
+    width: 30px;
+    border: 1px solid #0066cc;
+    border-radius: 5px;
+    position: relative;
+    top: 12px;
+    left: 145px;
+}
+.whatsapp{
+    width: 20px;
+    border: 1px solid #0066cc;
+    border-radius: 5px;
+    position: relative;
+    top: 9px;
+    left: 150px;
+}
+.p1{
+    text-align: center;
+    display: inline-block;
+    padding-left: 250px;
+    color: white;
+}
+.button1{
+    margin-left: 100px;
+    padding: 5px;
+    font-weight: 1px;
+    color: green;
+    border: 1px solid green;
+}
+.button2{
+    
+    padding: 5px;
+    font-weight: 1px;
+    color: green;
+    border: 1px solid green;
+}
+.button3{
+    
+    padding: 5px;
+    font-weight: 1px;
+    color: green;
+    border: 1px solid green;
+}
+.nav{
+    background-color: whitesmoke;
+    height: 80px;
+}    
+.nav1{
+    display: inline-block;
+    padding-left: 550px;
+}
+li{
+    display: inline-block;
+    border: 1px solid whitesmoke;
+    /* background-color: #0066cc; */
+    padding: 5px;
+    border-radius: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.home{
+    border: 1px solid #0066cc;
+    background-color: #0066cc;
+    color: white;
+
+}
+li:hover{
+    background-color: #0066cc;
+    color: white;
+}
+.saylaninav{
+    width: 180px;
+    position: absolute;
+    top: 70px;
+    left: 115px;
+}
+.d3{
+    
+    height: 500px;
+    
+}
+.p2{
+    text-align: center;
+    background-color: royalblue;
+    color: white;
+    margin-left: 90px;
+    margin-right: 90px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.d4{
+    height: 700px;
+    background-color: #f7f8fa;
+    margin-top: -12px;
+    text-align: justify;
+}
+.introduction{
+    color: royalblue;
+    text-align: center;
+    padding-top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.s1{
+    color: green;
+}
+.base{
+    position: absolute;
+    top: 800px;
+    left: 590px;
+}
+.p3{
+    padding-left: 200px;
+    margin-top: 70px;
+    line-height: 30px;
+    color: gray;
+    font-size: 15px;
+}
+.p4{
+    padding-left: 200px;
+    margin-top: 20px;
+    line-height: 30px;
+    color: gray;
+    font-size: 15px;
+}
+.p5{
+    padding-left: 200px;
+    margin-top: 20px;
+    line-height: 30px;
+    color: gray;
+    font-size: 15px;
+}
+.p6{
+    padding-left: 200px;
+    margin-top: 20px;
+    line-height: 30px;
+    color: gray;
+    font-size: 15px;
+}
+.d5{
+    height: 300px;
+    background-color: #316DC3;
+    
+}
+.a5{
+    width: 400px;
+    height: 200px;
+    background-color: #316DC3;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    font-family: 'Times New Roman';
+}
+.daster{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 50px;
+    
+}
+.daily{
+    color: white;
+    text-align: center;
+
+}
+.s2{
+    color: #00FF00;
+}
+.spoon{
+    width: 50px;
+    position: absolute;
+    top: 1500px;
+    left: 200px;
+}
+.b5{
+    width: 400px;
+    height: 200px;
+    background-color: #316DC3;
+    position: relative;
+    top: -195px;
+    left:355px;
+    font-family: 'Times New Roman';
+}
+.adoption{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 50px;
+    
+}
+.family{
+    color: white;
+    text-align: center;
+
+}
+.s2{
+    color: #00FF00;
+}
+.fam{
+    width: 50px;
+    position: absolute;
+    top: 1500px;
+    left: 545px;
+}
+.c5{
+    width: 300px;
+    height: 200px;
+    background-color: #316DC3;
+    position: relative;
+    top: -430px;
+    left:680px;
+    font-family: 'Times New Roman';
+}
+.doctor{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 50px;
+    
+}
+.doc{
+    color: white;
+    text-align: center;
+
+}
+.s2{
+    color: #00FF00;
+}
+ .scop{
+    width: 50px;
+    position: absolute;
+    top: 1500px;
+    left: 800px;
+}
+.e5{
+    width: 300px;
+    height: 200px;
+    background-color: #316DC3;
+    position: relative;
+    top: -665px;
+    left:950px;
+    font-family: 'Times New Roman';
+}
+.e1{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 50px;
+    
+}
+.e2{
+    color: white;
+    text-align: center;
+
+}
+.s2{
+    color: #00FF00;
+}
+ .education{
+    width: 50px;
+    position: absolute;
+    top: 1500px;
+    left: 1085px;
+}
+.d6{
+    height: 700px;
+    background-color: #f7f8fa;
+    margin-top: -25px;
+    text-align: justify;
+    
+}
+.what{
+    color: royalblue;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.s3{
+    color: green;
+}
+ .we{
+    position: absolute;
+    top: 1835px;
+    left: 590px;
+} 
+.a6{
+    width: 350px;
+    height: 170px;
+    background-color: white;
+    margin-left: 90px;
+    margin-top: 90px;
+    box-shadow: 3px 3px 20px -5px #888888;
+    color: #316DC3;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sadqah{
+    padding-top: 110px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sadqa{
+    width: 70px;
+    position: absolute;
+    top: 1935px;
+    left: 235px;
+    cursor: pointer;
+}
+.b6{
+    width: 350px;
+    height: 170px;
+    background-color: white;
+    /* margin-left: 90px;
+    margin-top: 90px; */
+    box-shadow: 3px 3px 20px -5px #888888;
+    color: #316DC3;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 480px;
+    top: 1915px;
+}
+.welfare{
+    padding-top: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.welf{
+    width: 70px;
+    position: absolute;
+    top: 1935px;
+    left: 620px;
+    cursor: pointer;
+}
+.c6{
+    width: 350px;
+    height: 170px;
+    background-color: white;
+    /* margin-left: 90px;
+    margin-top: 90px; */
+    box-shadow: 3px 3px 20px -5px #888888;
+    color: #316DC3;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 860px;
+    top: 1915px;
+}
+.media{
+    padding-top: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.media1{
+    width: 70px;
+    position: absolute;
+    top: 1935px;
+    left: 1000px;
+    cursor: pointer;
+}
+.e6{
+    width: 350px;
+    height: 170px;
+    background-color: white;
+    /* margin-left: 90px;
+    margin-top: 90px; */
+    box-shadow: 3px 3px 20px -5px #888888;
+    color: #316DC3;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 98px;
+    top: 2120px;
+}
+.khana{
+    padding-top: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.khana1{
+    width: 70px;
+    position: absolute;
+    top: 2145px;
+    left: 235px;
+    cursor: pointer;
+}
+.f6{
+    width: 350px;
+    height: 170px;
+    background-color: white;
+    /* margin-left: 90px;
+    margin-top: 90px; */
+    box-shadow: 3px 3px 20px -5px #888888;
+    color: #316DC3;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 480px;
+    top: 2120px;
+}
+.plant{
+    padding-top: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.plant1{
+    width: 70px;
+    position: absolute;
+    top: 2145px;
+    left: 620px;
+    cursor: pointer;
+}
+.g6{
+    width: 350px;
+    height: 170px;
+    background-color: white;
+    /* margin-left: 90px;
+    margin-top: 90px; */
+    box-shadow: 3px 3px 20px -5px #888888;
+    color: #316DC3;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 860px;
+    top: 2120px;
+}
+.parhai{
+    padding-top: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.parhai1{
+    width: 70px;
+    position: absolute;
+    top: 2145px;
+    left: 1000px;
+    cursor: pointer;
+}
+.d7{
+    
+    height: 400px;
+    background-color: ;
+    color: #316DC3;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.mup{
+    font-weight: bolder;
+    font-size: 30px;
+    padding-top: 40px;
+    padding-left: 90px;
+    
+}
+.a7{
+    width: 355px;
+    height: 80px;
+    background-color: #f7f8fa;
+    position: absolute;
+    top: 2570px;
+    left: 100px;
+    
+    color: #316DC3;
+}
+.hep{
+    padding-left: 70px;
+    padding-top: 10px;
+    
+}
+.hep1{
+    position: absolute;
+    top: 2590px;
+    left: 110px;
+    cursor: pointer;
+}
+.b7{
+    width: 355px;
+    height: 80px;
+    background-color: #f7f8fa;
+    position: absolute;
+    top: 2570px;
+    left: 490px;
+    
+    color: #316DC3;
+}
+.house{
+    padding-left: 70px;
+    padding-top: 10px;
+    
+}
+.house1{
+    position: absolute;
+    top: 2590px;
+    left: 500px;
+    cursor: pointer;
+}
+.c7{
+    width: 355px;
+    height: 80px;
+    background-color: #f7f8fa;
+    position: absolute;
+    top: 2675px;
+    left: 100px;
+    
+    color: #316DC3;
+}
+.it{
+    padding-left: 70px;
+    padding-top: 10px;
+    
+}
+.it1{
+    position: absolute;
+    top: 2695px;
+    left: 110px;
+    cursor: pointer;
+}
+.e7{
+    width: 355px;
+    height: 80px;
+    background-color: #f7f8fa;
+    position: absolute;
+    top: 2675px;
+    left: 490px;
+    
+    color: #316DC3;
+}
+.thar{
+    padding-left: 70px;
+    padding-top: 10px;
+    
+}
+.thar1{
+    position: absolute;
+    top: 2695px;
+    left: 500px;
+    cursor: pointer;
+}
+.coming{
+    position: absolute;
+    top: 2460px;
+    left: 900px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.f7{
+    width: 355px;
+    height: 300px;
+    background-color: #f7f8fa;
+    position: absolute;
+    top: 2530px;
+    left: 900px;
+    border-radius: 5px;
+    color: gray;
+    font-size: 15px;
+    
+}
+.up{
+    padding-left: 5px;
+    padding-top: 15px;
+}
+.more{
+    color: #316DC3;
+    cursor: pointer;
+}
+.d8{
+    height: 500px;
+    background-color: ;
+}
+.pics{
+    position: absolute;
+    top: 2975px;
+    left: 580px;
+}
+.a8{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 3050px;
+    left: 155px;
+}
+.rashan1{
+    max-width: 100%;
+        max-height: 100%;
+}
+.b8{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 3050px;
+    left: 360px;
+}
+.c8{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 3050px;
+    left: 565px;
+}
+.e8{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 3050px;
+    left: 770px;
+}
+.f8{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 3050px;
+    left: 975px;
+}
+.d9{
+    height: 400px;
+    background-color: #25272B;
+    color: ;
+}
+.a9{
+    width: 400px;
+    color: gray;
+    
+    position: absolute;
+    top: 3450px;
+    left: 140px;
+}
+.add{
+    padding-left: 25px;
+}
+.phone{
+    position: absolute;
+    top: 3518px;
+    left: 140px;
+}
+.phone1{
+    position: absolute;
+    top: 3551px;
+    left: 140px;
+}
+.phone2{
+    position: absolute;
+    top: 3587px;
+    left: 140px;
+}
+.phone3{
+    position: absolute;
+    top: 3620px;
+    left: 140px;
+}
+.email{
+    position: absolute;
+    top: 3653px;
+    left: 138px;
+}
+.globe{
+    position: absolute;
+    top: 3518px;
+    left: 313px;
+}
+.useful{
+    color: white;
+    position: absolute;
+    top: 3410px;
+    left: 600px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.connect{
+    color: white;
+    position: absolute;
+    top: 3410px;
+    left: 950px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.fb2{
+    position: absolute;
+    top: 3470px;
+    left: 950px;
+}
+.tw2{
+    position: absolute;
+    top: 3470px;
+    left: 990px;
+}
+.insta2{
+    position: absolute;
+    top: 3470px;
+    left: 1028px;
+}
+.yt2{
+    position: absolute;
+    top: 3470px;
+    left: 1065px;
+}
+.d10{
+    height: 50px;
+    background-color: #0066cc;
+    margin-top: -18px;
+}
+.copy{
+    color: white;
+    padding-top: 20px;
+    padding-left: 132px;
+    font-size: 11px;
+}
+.back{
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    right: 10px;
+    bottom: 0px;
+}
